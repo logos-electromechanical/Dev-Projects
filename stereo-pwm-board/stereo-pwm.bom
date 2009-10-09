@@ -1,0 +1,35 @@
+EAGLE Version 5.4.0 Copyright (c) 1988-2009 CadSoft
+
+Partlist exported from C:/Documents and Settings/Pierce Nichols/My Documents/eagle/logos-electromechanical/pwm-board/stereo-pwm.brd at 5/24/2009 7:10:02 PM
+
+13 different devices
+
+
+          Qty    Value          Package      Parts
+
+          1      JACK-STEREO    AUDIO-JACK     AUDIO
+          4                     JP2          C11, C12, C21, C22
+          5      0.1 uF         C1206        C3, C4, C6, C8, C9
+          1      1 uF           153CLV-0405     C5
+          2      10 nF          C0603        C1, C2
+          2                     CT6          DTC1ADJ, DTC2ADJ
+          4                     JP2          E11, E12, E21, E22
+          1                     CT6          FDBK1ADJ
+          1                     JP2          FDBK1SEL
+          1                     CT6          FDBK2ADJ
+          1                     JP2          FDBK2SEL
+          2                     CT6          FREQ1ADJ, FREQ2ADJ
+          1                     JP3Q         FREQ2SEL
+          2                     JP2          IN1SEL, IN2SEL
+          1                     JP3Q         INPUT
+          1                     HDF26V       J3
+          2                     JP2          MODE1SEL, MODE2SEL
+          1      JACK-PWR-2.1MM 2.1MM-JACK-PLUG     PWR
+          10     1K             R0603        R8, R9, R10, R11, R17, R18, R19, 
+                                             R20, R21, R22
+          6                     STAND-OFF     U$1, U$2, U$3, U$4, U$5, U$6
+          1      74266D         SO14         U5
+          1      ADTL082        SO8          U3
+          2      TL494CD        SO16         U1, U2
+          1      TLE2426        SOIC-8       U4
+          2                     CT6          VOL1, VOL2
